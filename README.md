@@ -1,4 +1,4 @@
-# Hi there! I'm hc12r
+# Hi there! I'm Pitch!
 
 ## About Me
 I'm a software enthusiast based in **Maputo, Mozambique**, passionate about **open source** and **data science**. I'm constantly learning and exploring how to solve problems through code, with a particular interest in low-level programming and understanding how systems work.
