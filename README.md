@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there! I'm hc12r
 
-<!--
-**hc12r/hc12r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a software enthusiast based in **Maputo, Mozambique**, passionate about **open source** and **data science**. I'm constantly learning and exploring how to solve problems through code, with a particular interest in low-level programming and understanding how systems work.
 
-Here are some ideas to get you started:
+Currently diving deeper into **DevOps** and **data engineering**, I'm building projects to learn and practice these concepts while contributing back to the open source community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What Drives Me
+- **Learning through building**: Each project is an opportunity to understand something new and share what I discover
+- **Open source contribution**: Giving back to the community while learning from others' code and feedback
+- **System curiosity**: Always asking "how does this work underneath?" and diving into the details
+- **Practical problem-solving**: Building tools that solve real problems I encounter in my learning journey
+
+## Technologies & Tools
+```
+Learning:      Python | Go | Java | Rust | SQL
+Exploring:     Pandas | SQL | ETL Pipelines | Data Modeling
+Practicing:    Docker | CI/CD | Infrastructure as Code
+Databases:     PostgreSQL | MySQL | NoSQL
+Cloud:         AWS | Azure | GCP
+```
+
+## Featured Projects
+
+### BrokoliSQL(https://github.com/hc12r/brokolisql)
+A Python-based command-line tool that converts structured data files (CSV, Excel, JSON, XML) into SQL INSERT statements. Solving the everyday problem of data migration and database population with elegance and efficiency.
+- **Tech Stack**: Python
+- **Key Features**: Multi-format support, CLI interface, Batch processing
+- **Also available in Go**: [brokolisql-go](https://github.com/hc12r/brokolisql-go)
+
+## What I Find Interesting About This Journey
+
+**Cross-Language Learning**: I'm exploring the same problems in different languages (Python → Go with BrokoliSQL) to understand how language choice affects implementation and performance. Each rewrite teaches me something new.
+
+**Building for the AI Era**: Projects like promptweaver are my way of learning how traditional development workflows might evolve. I'm still figuring out the best patterns, but it's exciting to explore.
+
+**End-to-End Understanding**: I'm trying to build projects across the full stack - from data processing to deployment - because I believe understanding the whole picture makes you better at any individual piece.
+
+**Learning in Public**: Every project here represents something I'm learning or have learned. Some work better than others, but they all teach me something valuable.
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hc12r&show_icons=true&theme=dark&hide_border=true)
+
+## Currently Learning
+- Advanced Go patterns and concurrency
+- Cloud-native architectures and their trade-offs
+- Kubernetes and container orchestration
+- Real-time data processing pipelines
+- AI integration patterns in development workflows
+
+## Let's Connect
+- **Location**: Maputo, Mozambique
+- **Focus**: Learning DevOps & Data Engineering
+- **Open to**: Feedback, collaboration, and learning from others
+
+---
+*Learning in public, one commit at a time*
