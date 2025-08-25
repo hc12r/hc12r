@@ -11,14 +11,18 @@ Currently diving deeper into **DevOps** and **data engineering**, I'm building p
 - **System curiosity**: Always asking "how does this work underneath?" and diving into the details
 - **Practical problem-solving**: Building tools that solve real problems I encounter in my learning journey
 
-## Technologies & Tools
-```
-Learning:      Python | Go | Java | Rust | SQL
-Exploring:     Pandas | SQL | ETL Pipelines | Data Modeling
-Practicing:    Docker | CI/CD | Infrastructure as Code
-Databases:     PostgreSQL | MySQL | NoSQL
-Cloud:         AWS | Azure | GCP
-```
+<h3 align="left">Languages and Tools:</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,go,linux,aws,gradle,maven,ai,kubernetes,latex,mysql,postgres,rabbitmq,redis,rust,ubuntu" />
+  </a>
+</p>
+<h3 align="left">GuitHub Stats:</h3>
+<div>
+  <a href="https://github.com/hc12r/">
+  <img height="150em" src = "https://github-readme-stats-rongronggg9.vercel.app/api?username=hc12r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs,issues">
+  <img height="150em" src = "https://github-readme-stats-rongronggg9.vercel.app/api/top-langs/?username=hc12r&layout=compact&theme=dracula">
+</div>
 
 ## Featured Projects
 
@@ -37,9 +41,6 @@ A Python-based command-line tool that converts structured data files (CSV, Excel
 **End-to-End Understanding**: I'm trying to build projects across the full stack - from data processing to deployment - because I believe understanding the whole picture makes you better at any individual piece.
 
 **Learning in Public**: Every project here represents something I'm learning or have learned. Some work better than others, but they all teach me something valuable.
-
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hc12r&show_icons=true&theme=dark&hide_border=true)
 
 ## Currently Learning
 - Advanced Go patterns and concurrency
